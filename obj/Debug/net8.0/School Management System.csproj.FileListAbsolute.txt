@@ -1,0 +1,30 @@
+C:\Users\Andrew\Desktop\OOP\C#\School-Management-System\bin\Debug\net8.0\School Management System.exe
+C:\Users\Andrew\Desktop\OOP\C#\School-Management-System\bin\Debug\net8.0\School Management System.deps.json
+C:\Users\Andrew\Desktop\OOP\C#\School-Management-System\bin\Debug\net8.0\School Management System.runtimeconfig.json
+C:\Users\Andrew\Desktop\OOP\C#\School-Management-System\bin\Debug\net8.0\School Management System.dll
+C:\Users\Andrew\Desktop\OOP\C#\School-Management-System\bin\Debug\net8.0\School Management System.pdb
+C:\Users\Andrew\Desktop\OOP\C#\School-Management-System\obj\Debug\net8.0\School Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrew\Desktop\OOP\C#\School-Management-System\obj\Debug\net8.0\School Management System.AssemblyInfoInputs.cache
+C:\Users\Andrew\Desktop\OOP\C#\School-Management-System\obj\Debug\net8.0\School Management System.AssemblyInfo.cs
+C:\Users\Andrew\Desktop\OOP\C#\School-Management-System\obj\Debug\net8.0\School Management System.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Desktop\OOP\C#\School-Management-System\obj\Debug\net8.0\School Management System.sourcelink.json
+C:\Users\Andrew\Desktop\OOP\C#\School-Management-System\obj\Debug\net8.0\School Management System.dll
+C:\Users\Andrew\Desktop\OOP\C#\School-Management-System\obj\Debug\net8.0\refint\School Management System.dll
+C:\Users\Andrew\Desktop\OOP\C#\School-Management-System\obj\Debug\net8.0\School Management System.pdb
+C:\Users\Andrew\Desktop\OOP\C#\School-Management-System\obj\Debug\net8.0\School Management System.genruntimeconfig.cache
+C:\Users\Andrew\Desktop\OOP\C#\School-Management-System\obj\Debug\net8.0\ref\School Management System.dll
+C:\Users\User\Desktop\Programming\OOP\Study OOP Basics\OOP_Revise_2\bin\Debug\net8.0\School Management System.exe
+C:\Users\User\Desktop\Programming\OOP\Study OOP Basics\OOP_Revise_2\bin\Debug\net8.0\School Management System.deps.json
+C:\Users\User\Desktop\Programming\OOP\Study OOP Basics\OOP_Revise_2\bin\Debug\net8.0\School Management System.runtimeconfig.json
+C:\Users\User\Desktop\Programming\OOP\Study OOP Basics\OOP_Revise_2\bin\Debug\net8.0\School Management System.dll
+C:\Users\User\Desktop\Programming\OOP\Study OOP Basics\OOP_Revise_2\bin\Debug\net8.0\School Management System.pdb
+C:\Users\User\Desktop\Programming\OOP\Study OOP Basics\OOP_Revise_2\obj\Debug\net8.0\School Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Programming\OOP\Study OOP Basics\OOP_Revise_2\obj\Debug\net8.0\School Management System.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Programming\OOP\Study OOP Basics\OOP_Revise_2\obj\Debug\net8.0\School Management System.AssemblyInfo.cs
+C:\Users\User\Desktop\Programming\OOP\Study OOP Basics\OOP_Revise_2\obj\Debug\net8.0\School Management System.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Programming\OOP\Study OOP Basics\OOP_Revise_2\obj\Debug\net8.0\School Management System.sourcelink.json
+C:\Users\User\Desktop\Programming\OOP\Study OOP Basics\OOP_Revise_2\obj\Debug\net8.0\School Management System.dll
+C:\Users\User\Desktop\Programming\OOP\Study OOP Basics\OOP_Revise_2\obj\Debug\net8.0\refint\School Management System.dll
+C:\Users\User\Desktop\Programming\OOP\Study OOP Basics\OOP_Revise_2\obj\Debug\net8.0\School Management System.pdb
+C:\Users\User\Desktop\Programming\OOP\Study OOP Basics\OOP_Revise_2\obj\Debug\net8.0\School Management System.genruntimeconfig.cache
+C:\Users\User\Desktop\Programming\OOP\Study OOP Basics\OOP_Revise_2\obj\Debug\net8.0\ref\School Management System.dll
